@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a><img src='https://files.catbox.moe/g3qyb4.jpg'/>
+<a><img src='https://files.catbox.moe/294e79.jpg'/>
 
 -----------------------------------
 ------
@@ -52,20 +52,6 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=novaxmd&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
-
-
-
-<!-- Banner Image -->
-<p align="center">
-  <a href="https://files.catbox.moe/5wc25o.jpg">
-    <img src="https://files.catbox.moe/5wc25o.jpg" width="100%" height="auto">
-  </a>
-</p>
-
-
-
-
-<a><img src='https://files.catbox.moe/294e79.jpg'/>
 
 -----------------------------------
 
