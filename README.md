@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<a><img src='https://files.catbox.moe/6tojfu.jpg'/>
-
-
 
 <a><img src='https://files.catbox.moe/6tojfu.jpg'/>
 
