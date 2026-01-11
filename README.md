@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/itx-alii-raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itx-alii-raza" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bmbxmd?igsh=MTM0Y2p3ZHpxMXZraA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
 
-![Pkdriller's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pkdriller&show_icons=true&theme=radical)
+![Pkdriller's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-bmbtech&show_icons=true&theme=radical)
 ### Spotify Playing 🎧
 
 <p align="center">
@@ -28,12 +28,12 @@
 ### Github Stats 🚀
 
 ></a></p>
-<p align="center"><a href="https://github.com/bwbxmd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeoneofficial&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/Dev-bmbtech"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeoneofficial&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=bwbxmd&repo=INFOGENIE-AI&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=bwbxmd&repo=B.M.B-TECH&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-bmbtech&repo=INFOGENIE-AI&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-bmbtech&repo=B.M.B-TECH&theme=dark)
 
 
 ## 🚀 Most Contributed Repo
@@ -42,7 +42,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Dev-bmbtech&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
 
-<a><img src='https://files.catbox.moe/6tojfu.jpg'/>
+<a><img src='https://files.catbox.moe/2tjv4r.jpg'/>
 
 
 -----------------------------------
