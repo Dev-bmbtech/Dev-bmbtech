@@ -13,11 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/itx-alii-raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itx-alii-raza" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bmb-tech-bb1755378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itx-alii-raza" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bmbxmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
 
-![Dev-bmbtech GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-bmbtech&show_icons=true&theme=radical)
-### Spotify Playing 🎧
 
 <p align="center">
   <a href="https://open.spotify.com/user/31nuzemgd72h4llo3dnl2pshegeu?si=qHWmVIfBQhy2KyH0dJgQ2Q&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
