@@ -26,12 +26,7 @@
 ### Github Stats 🚀
 
 ></a></p>
-<p align="center"><a href="https://github.com/Dev-bmbtech"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeoneofficial&theme=radical&layout=compact"></a></p> 
-
-### Repo Stats 🔭
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-bmbtech&repo=INFOGENIE-AI&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-bmbtech&repo=BMB-TECH&theme=dark)
+<p align="center"><a href="https://github.com/Dev-bmbtech"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeoneofficial&theme=radical&layout=compact"></a></p>
 
 
 ## 🚀 Most Contributed Repo
