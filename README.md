@@ -31,7 +31,7 @@
 ### Repo Stats 🔭
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-bmbtech&repo=INFOGENIE-AI&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-bmbtech&repo=B.M.B-TECH&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-bmbtech&repo=BMB-TECH&theme=dark)
 
 
 ## 🚀 Most Contributed Repo
