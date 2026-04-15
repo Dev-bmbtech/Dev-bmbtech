@@ -1,3 +1,12 @@
+### BMB TECH A ME PROFILE 👋
+<a href="https://wa.me/255767862457" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z" target="_blank"><img src="https://img.shields.io/badge/Grupo-%808080.svg?&style=flat-square&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=Dev-bmbtech&show_icons=true&theme=chartreuse-dark)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-bmbtech&layout=compact&theme=chartreuse-dark)
+
+
 ## Hi there 👋
 
 
